@@ -1,5 +1,5 @@
-## Ethereum-Scribe
-- A tool for scribing all transactions from Ethereum Network
+## Ethereum-scraper
+- A tool for scraping all transactions from Ethereum Network
 
 ## Prerequisites
 - Download and install [![Truffle Framework](http://truffleframework.com/docs/getting_started/console)]
