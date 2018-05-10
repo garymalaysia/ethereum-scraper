@@ -5,4 +5,4 @@
 - Download and install [![Truffle Framework](http://truffleframework.com/docs/getting_started/console)]
 
 ## Usage
-- $ truffle exec getTrax.js
+-'$ truffle exec getTrax.js'
